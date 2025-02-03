@@ -1,4 +1,4 @@
-baseURL: https://example.docsy.dev
+baseURL: https://effem-jg.github.io/docsy-example
 title: Goldydocs
 
 # cSpell:ignore goldmark github hugo readingtime docsy subdir lastmod pygments linenos catmullrom norsk gu

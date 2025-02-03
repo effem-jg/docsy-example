@@ -33,3 +33,5 @@ Is there any initial setup users need to do after installation to try your proje
 ## Try it out!
 
 Can your users test their installation, for example by running a command or deploying a Hello World example?
+
+{{ partial "giscus.html" . }}
