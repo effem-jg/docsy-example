@@ -89,6 +89,7 @@ outputs:
   section: [HTML, print, RSS]
 
 params:
+  disableComments: false
   taxonomy:
     # set taxonomyCloud = [] to hide taxonomy clouds
     taxonomyCloud: [tags, categories]
